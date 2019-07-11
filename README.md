@@ -31,3 +31,11 @@ The internet a way computers can connect and transmit text/images to each other.
 
 HTML tags are greater and less than symbols surrounding text  `<tag>some text</tag>`. The tag, part in brackets, describes around the text inside it. So `<b>Hello</b>` is **Hello**.
   
+* `<html>` tells browser this is HTML format
+* `<head>` known as the header, tells it details about the page, but not to display
+* `<body>` the body of the document, this is the stuff to display in the browser
+* `<h1>...<h6>` heading tags, how big to display this text as a heading
+* `<p>` paragraph tag
+* `<a>` anchor tag - this is a hyperlink and `href` attribute tells the browser where to go if it's clicked
+* `<img>` image tag - this is an image and `src` tells the browser where to load it from
+* `<ul><li>` start a group of bulleted lists, and `<li>` is a list item
